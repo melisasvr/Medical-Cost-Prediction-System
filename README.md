@@ -11,7 +11,6 @@
 ## 📋 Table of Contents
 - [Overview](#overview)
 - [Features](#features)
-- [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
@@ -60,32 +59,6 @@
 - Top 10 most influential features
 - Model explainability metrics
 
-## 🎬 Demo
-
-### Screenshots
-
-**Data Overview Dashboard:**
-```
-[Add screenshot of Data Overview tab]
-```
-
-**Model Performance Comparison:**
-```
-[Add screenshot of Model Performance tab]
-```
-
-**Prediction Interface:**
-```
-[Add screenshot of Make Prediction tab]
-```
-
-**Feature Importance:**
-```
-[Add screenshot of Feature Insights tab]
-```
-
-### Live Demo
-🚀 **[Try the live app here](#)** *(Add your Streamlit Cloud link after deployment)*
 
 ## 🚀 Installation
 
